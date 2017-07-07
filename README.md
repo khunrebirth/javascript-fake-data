@@ -5,13 +5,13 @@
 <img src="screenshot/screenshot.gif"></a>
 </p>
 
-#### 1. ติดตั้งผ่าน npm
+#### 1. ติดตั้ง json-server ผ่าน npm
 
 ```
   npm install -g json-server
 ```
 
-### 2. Start Server ขึ้นมา
+#### 2. Start Server
 
 ```
   json-server --watch db.js
