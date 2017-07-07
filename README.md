@@ -2,7 +2,7 @@
 > แนวทางการใช้งาน สามารถจำลองเป็น REST API โดยใช้ json-server จำลองขึ้นมา
 
 <p align="center">
-<img src="screenshot/screenshot.png"></a>
+<img src="screenshot/screenshot.gif"></a>
 </p>
 
 #### 1. ติดตั้งผ่าน npm
